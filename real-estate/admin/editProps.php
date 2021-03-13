@@ -157,7 +157,3 @@ if (isset($_POST['update'])) {
 </body>
 
 </html>
-
-</body>
-
-</html>
