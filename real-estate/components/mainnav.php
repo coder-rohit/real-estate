@@ -3,7 +3,7 @@
     $mainnav = "<div class='container' id='navbarMain'>
     <div>
     <nav class='nav-main'>
-      <a class='links-nav' href='index.php'>HOME</a>
+      <a class='links-nav' href='../real-estate/'>HOME</a>
       <a class='links-nav' href='about.php'>ABOUT US</a>
       <a class='links-nav' href='buyprop.php'>BUY PROPERTY</a>
       <a class='links-nav' href='rentprop.php'>RENT PROPERTY</a>
